@@ -51,6 +51,6 @@ public class Element {
         if (NomEl.equals("         ")==true){
             return System.lineSeparator()+NomEl;
         }
-        return System.lineSeparator()+NomEl+"/"+ NumeroEl;
+        return System.lineSeparator()+NomEl+"/"+ NumeroEl;   
     }
 }
